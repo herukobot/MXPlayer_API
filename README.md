@@ -28,4 +28,9 @@
 3. Connect There and Deploy This Repo.
 4. Done ! Enjoy Scrapping and Streaming
 
+### Thanks To
+• <a href="https://github.com/avipatilpro">Avishkar Patil</a>
+• <a href="https://github.com/KapilYadav-dev">Kapil Yadav</a>
+
+
 
