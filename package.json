@@ -1,0 +1,25 @@
+{
+  "name": "mxplayer-avi",
+  "version": "1.2.0",
+  "description": "MXPlayer API Avi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avipatilpro/MXPlayer_API.git"
+  },
+  "keywords": [ MXPlayer, API, Aviapatil ],
+  "author": "Avishkar Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avipatilpro/MXPlayer_API/issues"
+  },
+  "homepage": "https://github.com/avipatilpro/MXPlayer_API#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
